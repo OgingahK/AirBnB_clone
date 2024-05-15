@@ -1,6 +1,14 @@
+![images](https://github.com/OgingahK/AirBnB_clone/assets/159820493/e20a1b09-b252-4f4d-99e4-47bb351aa888)
+
+
+
+
+
+
+
 **An AirBnB Console**
 
-
+_________________________________________________________________________________________________
 **Description**
 
 This is the first step towards building your first full web application: the AirBnB clone. This first step is very important because you will use what you build during this project with all other following projects: HTML/CSS templating, database storage, API, front-end integration…
