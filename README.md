@@ -46,16 +46,16 @@ It is coupled with the backend and file storage system, it can perfom the follow
 
 Our console will work like this in the interactive mode:
 
-
-``$ echo "help" | ./console.py
+```
+$ echo "help" | ./console.py
 (hbnb) 
 Documented commands (type help <topic>):
 ========================================
 EOF  all  count  create  destroy  help  quit  show  update
 
 (hbnb) 
-$``
-
+$
+```
 
 In order to use the console in intaractive mode, run the file `console.py` by itself:
 
@@ -68,17 +68,21 @@ While running in interactive mode, the displayed prompt for input:
 
 To quit the console, enter the command `quit`, or input the EOF signal (`ctrl+D`):
 
-`$ ./console.py
+```
+$ ./console.py
 (hbnb) quit
-$`
+$
+```
 
-`$ ./console.py
+```
+$ ./console.py
 (hbnb) EOF
-$`
+$
+```
 
 But also like this in non-interactive mode:
 
-`
+```
 $ echo "help" | ./console.py
 (hbnb)
 
@@ -98,7 +102,7 @@ Documented commands (type help <topic>):
 EOF  help  quit
 (hbnb) 
 $
-`
+```
 
 
 **How to test**
