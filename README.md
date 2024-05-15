@@ -8,7 +8,9 @@ This is the first step towards building your first full web application: the Air
 **The Console**
 
 . Create your data model
+
 . Manage (create, destroy, update) via a console/ command interpreter
+
 . Store and persist objects to a file(JSON) file
 
 The first piece is to manipulate a powerful storage system. This storage engine will give us an abstraction between “My object” and “How they are stored and persisted”. This means: from your console code (the command interpreter itself) and from the front-end and RestAPI you will build later, you won’t have to pay attention (take care) of how your objects are stored.
@@ -17,9 +19,13 @@ This abstraction will also allow you to change the type of storage easily withou
 **Commands Available:**
 
 . show
+
 . create
+
 . update
+
 . destroy
+
 . count
 
 **Command Interpreter**
@@ -27,9 +33,13 @@ This abstraction will also allow you to change the type of storage easily withou
 It is coupled with the backend and file storage system, it can perfom the following actions:
 
 . Create a new object (ex: a new User or a new Place)
+
 . Retrieve an object from a file, a database etc…
+
 . Do operations on objects (count, compute stats, etc…)
+
 . Update attributes of an object
+
 . Destroy an object
 
 **How to use it:**
