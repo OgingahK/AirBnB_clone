@@ -1,5 +1,4 @@
-![images](https://github.com/OgingahK/AirBnB_clone/assets/159820493/e20a1b09-b252-4f4d-99e4-47bb351aa888)
-
+![airbnb](https://github.com/OgingahK/AirBnB_clone/assets/159820493/a665e1a2-6dc7-495e-b199-751cf60a66fb)
 
 
 
